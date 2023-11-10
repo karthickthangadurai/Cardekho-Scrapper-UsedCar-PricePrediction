@@ -43,8 +43,9 @@ To intialize CarDekho Scraper below models has been utilized
 
 We will able to collect max 1500 links per cities. Since only 1580 links will be present in one page. Code was written in such a way that it scroll down the entire page and collects atleast 1500 links if more than 1500 present in the particular page
 
-
 <img width="849" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/4a9f696c-c8b8-44e1-aaf4-c508a5bc76e3">
+
+
 
 I wrote a script to collect the links. You can find it in CarDekhoScrapperFile.ipynb file.
 
