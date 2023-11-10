@@ -1,4 +1,4 @@
-# :oncoming_automobile:	Cardekho-Scraper & UsedCar-PricePrediction :weight_lifting_man:
+# :oncoming_automobile:	:oncoming_police_car: Cardekho-Scraper & UsedCar-PricePrediction :oncoming_taxi: :weight_lifting_man:
 ### **Developing a car price prediction model, combining data acquisition, preparation, analysis, modeling, and deployment**
 
 Building a car price prediction model involves scraping data from reliable sources like CarDekho, cleaning and enhancing the dataset, exploring patterns, selecting a suitable machine learning algorithm, training and evaluating the model, tuning hyperparameters, deploying it into applications, and continuously monitoring and maintaining its performance for accuracy and reliability over time.
