@@ -57,6 +57,7 @@ After the links are scraped now the time is to navigate all the cars page and co
 
 Once we get into the car page we can send html.parser and collect the whole page html doc. From this we can get all the data. It takes almost 2hrs of time to complete 1200 links.
 
+[Sample Car Link](https://www.cardekho.com/used-car-details/used-Kia-Sonet-Turbo-Dct-Anniversary-Edition-cars-Chennai_9a50ab47-7b87-4649-951d-fadcf4f77ceb.htm) 
 ### :cartwheeling: 2.1 Car Details Data :wrestling:
 
 <img width="881" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/abb9dfbf-0fd4-4ba0-8e10-816de2a986f5">
