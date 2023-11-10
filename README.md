@@ -9,6 +9,19 @@ Building a car price prediction model involves scraping data from reliable sourc
 
 CarDekho is a prominent online platform in the Indian automotive industry, offering a comprehensive range of services. Users can access detailed information, specifications, and reviews for various car models, aiding in informed decision-making. The platform features listings for both new and used cars, providing a marketplace for buying and selling vehicles. CarDekho also offers comparison tools, enabling users to assess different models based on specific criteria. Additionally, the website may provide automotive news and updates, covering new launches, reviews, and industry trends.
 
+## How we are going to do predict the car price ?
+
+1. Scrap the car links
+2. Data Collection from Car links
+3. Data Transformation into Structured data
+4. Data Cleansing
+5. Exploratory Data Analysis
+6. Feature Engineering
+7. Model Building
+8. Evaluation and Validation
+9. Deployment
+
+
 ## CarDekho Scraper
 
 There are multiple filters available to search the used cars and filters are Cities, Fuel Type, Brand. We are going to filter the used cars by Cities.
