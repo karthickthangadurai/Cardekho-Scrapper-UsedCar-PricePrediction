@@ -29,7 +29,7 @@ Collect data of Car Details, Car Overview, Car Features, Car Specifications for 
 
 ## CarDekho Scraper
 
-There are multiple filters available to search the used cars like Cities, Fuel Type, Brand. I am going to filter and collect data of the used cars by Cities. Click any of the cities.
+There are multiple filters available to see used cars based on Cities, Fuel Type, Brand. I am going to filter and collect data of the used cars by Cities. Click any of the cities.
 
 <img width="789" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/20ca511a-2425-410c-a33c-a16f632009e4">
 
@@ -39,4 +39,8 @@ To intialize CarDekho Scraper below models has been utilized
 * BeautifulSoup - To get the html parser of the partcular page
 + pandas - To make the data into structured one
 
+## Links Page
+
+We will able to collect max 1500 links per cities. Since only 1580 links will be present in one page. Code was written in such a way that it scroll down the entire page and collects atleast 1500 links if more than 1500 present in the particular page
+<img width="504" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/1df927e6-6044-4581-813a-0aabae05c67f">
 
