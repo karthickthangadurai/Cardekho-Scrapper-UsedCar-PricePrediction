@@ -51,4 +51,30 @@ I wrote a script to collect the links. You can find it in CarDekhoScrapperFile.i
 
 <img width="776" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/591ea3b3-5335-4906-8aec-4ffedd5dae96">
 
+## 2. Data Collection From Car Links
+
+After the links are scraped now the time is to navigate all the cars page and collect the data. If we use selenium there are multiple clicks has to be done to for features, specifications. It consumes a lot of time so here I have used combination of Selenium and BeautifulSoup to collect the data. 
+
+Once we get into the car page we can send html.parser and collect the whole page html doc. From this we can get all the data. It takes almost 2hrs of time to complete 1200 links.
+
+### 2.1 Car Details Data
+
+<img width="600" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/d9111548-e40b-4340-b362-43e2f2bf367d">
+
+### 2.2 Car Overview Data
+
+<img width="508" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/10db0a6d-85b1-46bc-b2e0-42512912d9c4">
+
+### 2.3 Car Features Data
+
+<img width="171" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/5bb1793e-d407-4136-ac4a-193fc2ffa9dd">
+
+<img width="167" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/e1771232-7913-4233-8f4a-484d82552658">
+
+### 2.4 Car Specs Data
+
+<img width="171" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/6c0a0bec-defe-4f51-9644-c144a2132d61">
+
+<img width="170" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/736c5c16-3ec3-42b6-9a8c-d73c75163359">
+
 
