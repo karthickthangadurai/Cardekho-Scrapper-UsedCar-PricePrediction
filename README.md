@@ -94,6 +94,28 @@ Collected Data
 
 <img width="801" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/ef1c9b77-0f8d-4fb7-b083-640b3f1f5fcd">
 
+## :handshake: 3. Data Transformation into Structured data :handshake:
 
+Structured data is the backbone of machine learning. It is the data that machine learning algorithms learn from to make predictions and decisions. Structured data is organized in a consistent and predictable way, which makes it easy for machines to understand.
+
+After collecting the raw data, the next step is to make all unstructured JSON data into structured data. We will be converting individual dataframes for Car details, Car Overview, Car Features and Car Specs. 
+
+### :writing_hand: 3.1 Car Details Dataframe :writing_hand:
+
+<img width="793" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/c61c48ff-c365-4712-b533-e5b851113ff8">
+
+### :anatomical_heart: 3.2 Car Overview Dataframe :anatomical_heart:
+
+<img width="789" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/7b5e98bd-539a-4b64-b930-de7544c4194a">
+
+### :eye: 3.3 Car Features Dataframe :brain:
+
+Here I considered the no of features present in individual category
+
+<img width="792" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/97ef852f-5101-4378-a707-867ec5762e67">
+
+### :raising_hand_man: 3.4 Car Specs Dataframe :raising_hand_woman:
+
+<img width="794" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/56999683-4bea-4838-a056-8be568d7ee23">
 
 
