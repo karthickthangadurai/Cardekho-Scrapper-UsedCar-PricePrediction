@@ -21,13 +21,13 @@ CarDekho is a prominent online platform in the Indian automotive industry, offer
 8. Evaluation and Validation
 9. Deployment
 
-# How we are going to predict the car price ?
+## How we are going to predict the car price ?
 
 Collect data of Car Details, Car Overview, Car Features, Car Specifications for each and every car. As we know that Kilo meter driven can be the important independent variable to predict the price. In the same manner year of manufacturing, features and specifications makes changes in the car price. 
 
-## 1. Collect the Car Links
+# 1. Collect the Car Links
 
-# CarDekho Scraper
+## CarDekho Scraper
 
 There are multiple filters available to search the used cars like Cities, Fuel Type, Brand. I am going to filter and collect data of the used cars by Cities. Click any of the cities.
 
