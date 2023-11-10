@@ -11,6 +11,10 @@ CarDekho is a prominent online platform in the Indian automotive industry, offer
 
 ## CarDekho Scraper
 
+There are multiple filters available to search the used cars. The options are Cities, Fuel Type, Brand. We are going to filter the used cars by Cities.
+
+<img width="789" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/20ca511a-2425-410c-a33c-a16f632009e4">
+
 To intialize CarDekho Scraper below models has been utilized 
 
 - selenium - For automating the pages
