@@ -13,6 +13,6 @@ CarDekho is a prominent online platform in the Indian automotive industry, offer
 
 To intialize CarDekho Scraper below models has been utilized 
 
--selenium - For automating the pages
-*BeautifulSoup - To get the html parser of the partcular page
-+pandas - To make the data into structured one
+- selenium - For automating the pages
+* BeautifulSoup - To get the html parser of the partcular page
++ pandas - To make the data into structured one
