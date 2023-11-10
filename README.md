@@ -61,6 +61,10 @@ Once we get into the car page we can send html.parser and collect the whole page
 
 <img width="600" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/d9111548-e40b-4340-b362-43e2f2bf367d">
 
+Collected Data
+
+<img width="791" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/0c518bbf-0287-4ece-973a-36f1b7911e3a">
+
 ### 2.2 Car Overview Data
 
 <img width="508" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/10db0a6d-85b1-46bc-b2e0-42512912d9c4">
