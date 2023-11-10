@@ -23,7 +23,7 @@ CarDekho is a prominent online platform in the Indian automotive industry, offer
 
 ### :man_shrugging: How we are going to predict the car price ? :woman_shrugging:
 
-Collect data of Car Details, Car Overview, Car Features, Car Specifications for each and every car. As we know that Kilo meter driven can be the important independent variable to predict the price. In the same manner year of manufacturing, features and specifications makes changes in the car price. 
+Collect the data of Car Details, Car Overview, Car Features, Car Specifications for each and every car. As we know that Kilo meter driven can be the important independent variable to predict the price. In the same way, year of manufacturing, features and specifications makes considerable impact in the car price. 
 
 ## :woman_technologist: 1. Collect the Car Links :man_artist:
 
@@ -41,7 +41,7 @@ To intialize CarDekho Scraper below models has been utilized
 
 ### :standing_person: Links Page :walking_man:
 
-We will able to collect max 1500 links per cities. Since only 1580 links will be present in one page. Code was written in such a way that it scroll down the entire page and collects atleast 1500 links if more than 1500 present in the particular page
+Since only 1580 links will be present in one page, So We will able to collect max 1500 links per cities. Code was written in such a way that it scrolls down end of the page and collects minimum of 1500 links when if the links are present more than 1500 in the particular page
 
 <img width="849" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/4a9f696c-c8b8-44e1-aaf4-c508a5bc76e3">
 
@@ -53,11 +53,12 @@ I wrote a script to collect the links. You can find it in CarDekhoScrapperFile.i
 
 ## :snowboarder: 2. Data Collection From Car Links :horse_racing:
 
-After the links are scraped now the time is to navigate all the cars page and collect the data. If we use selenium there are multiple clicks has to be done to for features, specifications. It consumes a lot of time so here I have used combination of Selenium and BeautifulSoup to collect the data. 
+After links are been scraped, now the time is to navigate all the cars page and collect the data. Multiple clicks has to be done on Features, Specifications to collect the data If we use selenium. It consumes a lot of time so here I have used combination of Selenium and BeautifulSoup to collect the data. 
 
-Once we get into the car page we can send html.parser and collect the whole page html doc. From this we can get all the data. It takes almost 2hrs of time to complete 1200 links.
+Once we get into the car page we can send html.parser and collect the whole page html doc. From this we can extract all the data. Eventhough It takes almost 2hrs of time to complete 1200 links.
 
-[Sample Car Link](https://www.cardekho.com/used-car-details/used-Kia-Sonet-Turbo-Dct-Anniversary-Edition-cars-Chennai_9a50ab47-7b87-4649-951d-fadcf4f77ceb.htm) 
+[Sample Car Link](https://www.cardekho.com/used-car-details/used-Kia-Sonet-Turbo-Dct-Anniversary-Edition-cars-Chennai_9a50ab47-7b87-4649-951d-fadcf4f77ceb.htm)
+
 ### :cartwheeling: 2.1 Car Details Data :wrestling:
 
 <img width="881" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/abb9dfbf-0fd4-4ba0-8e10-816de2a986f5">
