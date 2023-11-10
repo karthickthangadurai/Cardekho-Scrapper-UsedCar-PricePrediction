@@ -59,7 +59,7 @@ Once we get into the car page we can send html.parser and collect the whole page
 
 ### 2.1 Car Details Data
 
-<img width="600" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/d9111548-e40b-4340-b362-43e2f2bf367d">
+<img width="881" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/abb9dfbf-0fd4-4ba0-8e10-816de2a986f5">
 
 Collected Data
 
@@ -67,16 +67,28 @@ Collected Data
 
 ### 2.2 Car Overview Data
 
-<img width="508" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/10db0a6d-85b1-46bc-b2e0-42512912d9c4">
+<img width="545" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/d59c86d1-e816-4920-aeab-0f4941d24eb4">
+
+Collected Data 
+
+<img width="791" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/29f1b893-c4f1-4fe1-a79f-057f856747cb">
 
 ### 2.3 Car Features Data
 
-<img width="468" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/812b8118-b6af-4828-9546-6bd670b21c86">
+<img width="455" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/e206ea74-0d33-426d-bdf1-af8ea1913c03">
+
+Collected Data
+
+<img width="793" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/7ae9d5e8-4d9d-49c5-8089-2e3e2b87b104">
+
 
 ### 2.4 Car Specs Data
 
-<img width="463" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/bed6c518-c4c3-4556-8704-b885a6df5e60">
+<img width="512" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/6f03ce36-38a6-4c47-9a44-84902b2ca734">
 
+Collected Data
+
+<img width="792" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/ef0b36e3-2b15-462d-a43e-8330b5716407">
 
 
 
