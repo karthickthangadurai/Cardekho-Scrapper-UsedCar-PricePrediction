@@ -100,11 +100,13 @@ Structured data is the backbone of machine learning. It is the data that machine
 
 After collecting the raw data, the next step is to make all unstructured JSON data into structured data. We will be converting individual dataframes for Car details, Car Overview, Car Features and Car Specs. 
 
+Here I have written functions to make structured dataframes. Functions will take JSON as an input and will return dataframe as an output
+
 ### :writing_hand: 3.1 Car Details Dataframe :writing_hand:
 
 <img width="793" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/c61c48ff-c365-4712-b533-e5b851113ff8">
 
-### :anatomical_heart: 3.2 Car Overview Dataframe :anatomical_heart:
+### :man_student: 3.2 Car Overview Dataframe :anatomical_heart:
 
 <img width="789" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/7b5e98bd-539a-4b64-b930-de7544c4194a">
 
