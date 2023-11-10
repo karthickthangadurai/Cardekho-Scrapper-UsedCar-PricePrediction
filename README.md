@@ -68,7 +68,7 @@ Collected Data
 <img width="797" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/2c155e62-e546-43ca-ba7a-6e64555be5c4">
 
 
-### :people_holding_hands: 2.2 Car Overview Data
+### :people_holding_hands: 2.2 Car Overview Data :right_anger_bubble:
 
 <img width="545" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/d59c86d1-e816-4920-aeab-0f4941d24eb4">
 
@@ -77,7 +77,7 @@ Collected Data
 <img width="799" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/5e15d62d-06c6-4057-8781-d9064e6f0513">
 
 
-### 2.3 Car Features Data
+### :raised_hand_with_fingers_splayed: 2.3 Car Features Data :metal:
 
 <img width="455" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/e206ea74-0d33-426d-bdf1-af8ea1913c03">
 
@@ -86,7 +86,7 @@ Collected Data
 <img width="799" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/24187c0b-1cb2-4c9f-adab-27639b22e054">
 
 
-### 2.4 Car Specs Data
+### :point_right: 2.4 Car Specs Data :point_left:
 
 <img width="512" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/6f03ce36-38a6-4c47-9a44-84902b2ca734">
 
