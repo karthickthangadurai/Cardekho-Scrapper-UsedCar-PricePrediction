@@ -47,8 +47,6 @@ We will able to collect max 1500 links per cities. Since only 1580 links will be
 
 I wrote a script to collect the links. You can find it in CarDekhoScrapperFile.ipynb file.
 
-<img width="755" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/4de49d44-3b4f-4407-b0cb-2fff1030b6e1">
-
 <img width="776" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/591ea3b3-5335-4906-8aec-4ffedd5dae96">
 
 
