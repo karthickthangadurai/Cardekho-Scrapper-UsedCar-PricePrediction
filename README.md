@@ -21,10 +21,14 @@ CarDekho is a prominent online platform in the Indian automotive industry, offer
 8. Evaluation and Validation
 9. Deployment
 
+# How we are going to predict the car price ?
+
+Collect data of Car Details, Car Overview, Car Features, Car Specifications for each and every car. As we know that Kilo meter driven can be the important independent variable to predict the price. In the same manner year of manufacturing, features and specifications makes changes in the car price. 
+
 ## 1. Collect the Car Links
 ## CarDekho Scraper
 
-There are multiple filters available to search the used cars and filters are Cities, Fuel Type, Brand. We are going to filter the used cars by Cities.
+There are multiple filters available to search the used cars like Cities, Fuel Type, Brand. I am going to filter and collect data of the used cars by Cities. Click any of the cities.
 
 <img width="789" alt="image" src="https://github.com/karthickthangadurai/Cardekho-Scrapper-UsedCar-PricePrediction/assets/104092206/20ca511a-2425-410c-a33c-a16f632009e4">
 
@@ -34,4 +38,4 @@ To intialize CarDekho Scraper below models has been utilized
 * BeautifulSoup - To get the html parser of the partcular page
 + pandas - To make the data into structured one
 
-# How we are going to predict the car price ?
+
